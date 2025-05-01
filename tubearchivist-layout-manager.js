@@ -8,6 +8,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
+// @updateURL    https://raw.githubusercontent.com/Zulux91/Tubearchivist-Overhaul/main/tubearchivist-layout-manager.js
+// @downloadURL  https://raw.githubusercontent.com/Zulux91/Tubearchivist-Overhaul/main/tubearchivist-layout-manager.js
 // ==/UserScript==
 
 (function() {

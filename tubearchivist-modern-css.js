@@ -10,6 +10,8 @@
 // @grant        GM_getValue
 // @grant        GM_setClipboard
 // @run-at       document-start
+// @updateURL    https://raw.githubusercontent.com/Zulux91/Tubearchivist-Overhaul/main/tubearchivist-modern-css.js
+// @downloadURL  https://raw.githubusercontent.com/Zulux91/Tubearchivist-Overhaul/main/tubearchivist-modern-css.js
 // ==/UserScript==
 
 (function() {
