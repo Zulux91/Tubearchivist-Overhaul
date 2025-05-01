@@ -16,3 +16,9 @@ eyJtYWluQmciOiIjMDAyMDJmIiwibWFpbkZvbnQiOiIjMjU5NDg1IiwiaGlnaGxpZ2h0QmciOiIjMDAy
 # Configurable options for the css. Make your own theme and share it with others!:
 ![CSS](img/css1.png)
 ![CSS](img/css2.png)
+
+# Installation
+- Go to https://www.tampermonkey.net and install the extension for your browser.
+- Go to https://github.com/Zulux91/Tubearchivist-Overhaul and click on the raw file.
+- If it doesn't prompt you to install the script, copy the raw code and paste it into an empty script.
+- Remember to match your url or ip with the one in the script include section.
