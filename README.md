@@ -1,5 +1,5 @@
 # Tubearchivist Visual Overhaul
-This set of tampermonkey scripts aim to make the Tubearchivist interface more visually appealing as well as taking more screen space for the tile layout. FYI visual design is not my specialty and I don't claim to be a designer. I made this using Claude AI so code might have room to improve. I just made it for myself, I'm happy woth the result and thought others might find it useful.
+This set of tampermonkey scripts aim to make the Tubearchivist interface more visually appealing as well as taking more screen space for the tile layout. FYI visual design is not my specialty and I don't claim to be a designer. I made this using Claude AI so code might have room to improve. I just made it for myself, I'm happy with the result and thought others might find it useful.
 
 By default the theme will show white. Here's TA's default theme to import:
 
